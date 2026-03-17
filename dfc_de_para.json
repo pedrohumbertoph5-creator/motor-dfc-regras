@@ -1,8 +1,58 @@
 {
   "versao": "2.0.0",
-  "atualizado_em": "2026-03-16T16:03:19.329683",
-  "total_regras": 20,
+  "atualizado_em": "2026-03-17T13:36:57.282138",
+  "total_regras": 70,
   "de_para": {
+    "2025 10 01 00 00 00": "2025-10-01 00:00:00",
+    "2025 10 06 00 00 00": "2025-10-06 00:00:00",
+    "2025 10 07 00 00 00": "2025-10-07 00:00:00",
+    "2025 10 08 00 00 00": "2025-10-08 00:00:00",
+    "2025 10 09 00 00 00": "2025-10-09 00:00:00",
+    "2025 10 10 00 00 00": "2025-10-10 00:00:00",
+    "2025 10 11 00 00 00": "2025-10-11 00:00:00",
+    "2025 10 13 00 00 00": "2025-10-13 00:00:00",
+    "2025 10 15 00 00 00": "2025-10-15 00:00:00",
+    "2025 10 17 00 00 00": "2025-10-17 00:00:00",
+    "2025 10 20 00 00 00": "2025-10-20 00:00:00",
+    "2025 10 21 00 00 00": "2025-10-21 00:00:00",
+    "2025 10 23 00 00 00": "2025-10-23 00:00:00",
+    "2025 10 27 00 00 00": "2025-10-27 00:00:00",
+    "2025 10 28 00 00 00": "2025-10-28 00:00:00",
+    "2025 10 30 00 00 00": "2025-10-30 00:00:00",
+    "2025 10 31 00 00 00": "2025-10-31 00:00:00",
+    "2025 11 01 00 00 00": "2025-11-01 00:00:00",
+    "2025 11 03 00 00 00": "2025-11-03 00:00:00",
+    "2025 11 04 00 00 00": "2025-11-04 00:00:00",
+    "2025 11 05 00 00 00": "2025-11-05 00:00:00",
+    "2025 11 06 00 00 00": "2025-11-06 00:00:00",
+    "2025 11 07 00 00 00": "2025-11-07 00:00:00",
+    "2025 11 10 00 00 00": "2025-11-10 00:00:00",
+    "2025 11 11 00 00 00": "2025-11-11 00:00:00",
+    "2025 11 12 00 00 00": "2025-11-12 00:00:00",
+    "2025 11 13 00 00 00": "2025-11-13 00:00:00",
+    "2025 11 14 00 00 00": "2025-11-14 00:00:00",
+    "2025 11 15 00 00 00": "2025-11-15 00:00:00",
+    "2025 11 19 00 00 00": "2025-11-19 00:00:00",
+    "2025 11 21 00 00 00": "2025-11-21 00:00:00",
+    "2025 11 24 00 00 00": "2025-11-24 00:00:00",
+    "2025 11 25 00 00 00": "2025-11-25 00:00:00",
+    "2025 11 26 00 00 00": "2025-11-26 00:00:00",
+    "2025 11 28 00 00 00": "2025-11-28 00:00:00",
+    "2025 12 01 00 00 00": "2025-12-01 00:00:00",
+    "2025 12 05 00 00 00": "2025-12-05 00:00:00",
+    "2025 12 08 00 00 00": "2025-12-08 00:00:00",
+    "2025 12 10 00 00 00": "2025-12-10 00:00:00",
+    "2025 12 11 00 00 00": "2025-12-11 00:00:00",
+    "2025 12 15 00 00 00": "2025-12-15 00:00:00",
+    "2025 12 16 00 00 00": "2025-12-16 00:00:00",
+    "2025 12 18 00 00 00": "2025-12-18 00:00:00",
+    "2025 12 19 00 00 00": "2025-12-19 00:00:00",
+    "2025 12 22 00 00 00": "2025-12-22 00:00:00",
+    "2025 12 23 00 00 00": "2025-12-23 00:00:00",
+    "2025 12 24 00 00 00": "2025-12-24 00:00:00",
+    "2025 12 26 00 00 00": "2025-12-26 00:00:00",
+    "2025 12 29 00 00 00": "2025-12-29 00:00:00",
+    "2025 12 31 00 00 00": "2025-12-31 00:00:00",
     "2026 01 01 00 00 00": "2026-01-01 00:00:00",
     "2026 01 02 00 00 00": "2026-01-02 00:00:00",
     "2026 01 05 00 00 00": "2026-01-05 00:00:00",
@@ -25,6 +75,456 @@
     "DATA": "Data"
   },
   "de_para_detalhado": {
+    "2025 10 01 00 00 00": {
+      "classificacao": "2025-10-01 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 3,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 10 06 00 00 00": {
+      "classificacao": "2025-10-06 00:00:00",
+      "confianca": 0.9,
+      "origem": "minerado",
+      "frequencia": 10,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 10 07 00 00 00": {
+      "classificacao": "2025-10-07 00:00:00",
+      "confianca": 0.9,
+      "origem": "minerado",
+      "frequencia": 7,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 10 08 00 00 00": {
+      "classificacao": "2025-10-08 00:00:00",
+      "confianca": 0.9,
+      "origem": "minerado",
+      "frequencia": 9,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 10 09 00 00 00": {
+      "classificacao": "2025-10-09 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 10 10 00 00 00": {
+      "classificacao": "2025-10-10 00:00:00",
+      "confianca": 0.9,
+      "origem": "minerado",
+      "frequencia": 47,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 10 11 00 00 00": {
+      "classificacao": "2025-10-11 00:00:00",
+      "confianca": 0.9,
+      "origem": "minerado",
+      "frequencia": 5,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 10 13 00 00 00": {
+      "classificacao": "2025-10-13 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 4,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 10 15 00 00 00": {
+      "classificacao": "2025-10-15 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 2,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 10 17 00 00 00": {
+      "classificacao": "2025-10-17 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 2,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 10 20 00 00 00": {
+      "classificacao": "2025-10-20 00:00:00",
+      "confianca": 0.9,
+      "origem": "minerado",
+      "frequencia": 5,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 10 21 00 00 00": {
+      "classificacao": "2025-10-21 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 10 23 00 00 00": {
+      "classificacao": "2025-10-23 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 2,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 10 27 00 00 00": {
+      "classificacao": "2025-10-27 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 3,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 10 28 00 00 00": {
+      "classificacao": "2025-10-28 00:00:00",
+      "confianca": 0.9,
+      "origem": "minerado",
+      "frequencia": 5,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 10 30 00 00 00": {
+      "classificacao": "2025-10-30 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 2,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 10 31 00 00 00": {
+      "classificacao": "2025-10-31 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 01 00 00 00": {
+      "classificacao": "2025-11-01 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 2,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 03 00 00 00": {
+      "classificacao": "2025-11-03 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 2,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 04 00 00 00": {
+      "classificacao": "2025-11-04 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 05 00 00 00": {
+      "classificacao": "2025-11-05 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 06 00 00 00": {
+      "classificacao": "2025-11-06 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 07 00 00 00": {
+      "classificacao": "2025-11-07 00:00:00",
+      "confianca": 0.9,
+      "origem": "minerado",
+      "frequencia": 6,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 10 00 00 00": {
+      "classificacao": "2025-11-10 00:00:00",
+      "confianca": 0.9,
+      "origem": "minerado",
+      "frequencia": 41,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 11 00 00 00": {
+      "classificacao": "2025-11-11 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 12 00 00 00": {
+      "classificacao": "2025-11-12 00:00:00",
+      "confianca": 0.9,
+      "origem": "minerado",
+      "frequencia": 15,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 13 00 00 00": {
+      "classificacao": "2025-11-13 00:00:00",
+      "confianca": 0.9,
+      "origem": "minerado",
+      "frequencia": 6,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 14 00 00 00": {
+      "classificacao": "2025-11-14 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 3,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 15 00 00 00": {
+      "classificacao": "2025-11-15 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 3,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 19 00 00 00": {
+      "classificacao": "2025-11-19 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 21 00 00 00": {
+      "classificacao": "2025-11-21 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 4,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 24 00 00 00": {
+      "classificacao": "2025-11-24 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 25 00 00 00": {
+      "classificacao": "2025-11-25 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 4,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 26 00 00 00": {
+      "classificacao": "2025-11-26 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 3,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 11 28 00 00 00": {
+      "classificacao": "2025-11-28 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 12 01 00 00 00": {
+      "classificacao": "2025-12-01 00:00:00",
+      "confianca": 0.9,
+      "origem": "minerado",
+      "frequencia": 6,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 12 05 00 00 00": {
+      "classificacao": "2025-12-05 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 3,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 12 08 00 00 00": {
+      "classificacao": "2025-12-08 00:00:00",
+      "confianca": 0.9,
+      "origem": "minerado",
+      "frequencia": 12,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 12 10 00 00 00": {
+      "classificacao": "2025-12-10 00:00:00",
+      "confianca": 0.9,
+      "origem": "minerado",
+      "frequencia": 54,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 12 11 00 00 00": {
+      "classificacao": "2025-12-11 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 4,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 12 15 00 00 00": {
+      "classificacao": "2025-12-15 00:00:00",
+      "confianca": 0.9,
+      "origem": "minerado",
+      "frequencia": 7,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 12 16 00 00 00": {
+      "classificacao": "2025-12-16 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 12 18 00 00 00": {
+      "classificacao": "2025-12-18 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 12 19 00 00 00": {
+      "classificacao": "2025-12-19 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 12 22 00 00 00": {
+      "classificacao": "2025-12-22 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 12 23 00 00 00": {
+      "classificacao": "2025-12-23 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 12 24 00 00 00": {
+      "classificacao": "2025-12-24 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 12 26 00 00 00": {
+      "classificacao": "2025-12-26 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 2,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 12 29 00 00 00": {
+      "classificacao": "2025-12-29 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
+    "2025 12 31 00 00 00": {
+      "classificacao": "2025-12-31 00:00:00",
+      "confianca": 0.7,
+      "origem": "minerado",
+      "frequencia": 1,
+      "empresas": [
+        "DEZ 2025 Quality"
+      ]
+    },
     "2026 01 01 00 00 00": {
       "classificacao": "2026-01-01 00:00:00",
       "confianca": 0.7,
@@ -200,8 +700,9 @@
       "classificacao": "Data",
       "confianca": 0.7,
       "origem": "minerado",
-      "frequencia": 1,
+      "frequencia": 2,
       "empresas": [
+        "DEZ 2025 Quality",
         "JAN 26 Quality"
       ]
     }
