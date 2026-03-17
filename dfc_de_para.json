@@ -1,7 +1,7 @@
 {
   "versao": "2.0.0",
-  "atualizado_em": "2026-03-17T13:39:21.529901",
-  "total_regras": 81,
+  "atualizado_em": "2026-03-17T13:49:06.706310",
+  "total_regras": 132,
   "de_para": {
     "2025 10 01 00 00 00": "2025-10-01 00:00:00",
     "2025 10 06 00 00 00": "2025-10-06 00:00:00",
@@ -83,7 +83,58 @@
     "2026 01 29 00 00 00": "2026-01-29 00:00:00",
     "2026 01 30 00 00 00": "2026-01-30 00:00:00",
     "2026 01 31 00 00 00": "2026-01-31 00:00:00",
-    "DATA": "Data"
+    "ALIMENTACAO": "Alimentação",
+    "ANTECIPACAO RV SAFRAPAY AMERICAN EXPRESS": "Recebimentos Via Antecipação",
+    "ANTECIPACAO RV SAFRAPAY ELO": "Recebimentos Via Antecipação",
+    "ANTECIPACAO RV SAFRAPAY MASTER": "Recebimentos Via Antecipação",
+    "ANTECIPACAO RV SAFRAPAY VISA": "Recebimentos Via Antecipação",
+    "DATA": "Data",
+    "PIX RECEBIDO ALELO INSTITUICAO DE PAGAMENTO": "Recebimentos Via Vale-Refeição",
+    "PIX RECEBIDO VR BENEFICIOS SERV PROC LTDA": "Recebimentos Via Vale-Refeição",
+    "PLANO 2 CMV 2 01 COMPRAS": "Compra de matéria-prima",
+    "PLANO 2 CMV 2 02 MATERIAL DESCARTAVEL": "Compra de matéria-prima",
+    "PLANO 2 D ADM 5 01 ALUGUEL": "Aluguel predial",
+    "PLANO 2 D ADM 5 02 ENERGIA ELETRICA": "Energia elétrica",
+    "PLANO 2 D ADM 5 03 GAS": "Gás",
+    "PLANO 2 D ADM 5 04 AGUA E ESGOTO": "Água e esgoto",
+    "PLANO 2 D ADM 5 09 IPTU": "IPTU",
+    "PLANO 2 D GERAIS 9 02 MATERIAL DE LIMPEZA": "Material de limpeza e higiene",
+    "PLANO 2 D GERAIS 9 05 MANUTENCAO EQUIPAMENTOS": "Manutenção de equipamentos",
+    "PLANO 2 D GERAIS 9 06 MANUTENCAO PREDIAL": "Manutenção predial",
+    "PLANO 2 D GERAIS 9 10 SEGUROS": "Seguros",
+    "PLANO 2 D GERAIS 9 11 ALUGUEL DE EQUIPAMENTO": "Aluguel de equipamentos",
+    "PLANO 2 D GERAIS MATERIAL DE ESCRITORIO": "Material de escritório",
+    "PLANO 2 D MKT 7 02 ASSESSORIA DE MARKETING": "Publicidade e propaganda",
+    "PLANO 2 D MKT 7 06 MATERIAL GRAFICO": "Material gráfico",
+    "PLANO 2 D PESSOAL 6 01 SALARIOS": "Salários",
+    "PLANO 2 D PESSOAL 6 02 ADIANTAMENTO": "Salários",
+    "PLANO 2 D PESSOAL 6 03 FERIAS": "Férias",
+    "PLANO 2 D PESSOAL 6 04 VALE TRANSPORTE": "Vale transporte",
+    "PLANO 2 D PESSOAL 6 06 13O SALARIO": "13º Salário",
+    "PLANO 2 D PESSOAL 6 07 RESCISAO": "Rescisões",
+    "PLANO 2 D PESSOAL 6 08 FGTS RESCISORIO": "Rescisões",
+    "PLANO 2 D PESSOAL 6 09 HORAS EXTRAS": "Extras",
+    "PLANO 2 D PESSOAL 6 10 INSS": "INSS",
+    "PLANO 2 D PESSOAL 6 11 FGTS": "FGTS",
+    "PLANO 2 D PESSOAL 6 12 EXAMES MEDICOS": "Exames médicos",
+    "PLANO 2 D PESSOAL 6 16 ALUGUEL CASA COLABORADORES": "Aluguel de casa",
+    "PLANO 2 D PESSOAL 6 18 PLANO ODONTOLOGICO": "Plano odontológico",
+    "PLANO 2 D PESSOAL 6 21 TRANSPORTE EXTRA": "Vale transporte",
+    "PLANO 2 D PESSOAL 6 22 SINDICATO": "Sindicatos",
+    "PLANO 2 D PESSOAL 6 35 REFEICAO P FUNCIONARIO": "Alimentação",
+    "PLANO 2 D PESSOAL 6 36 AGUA FUNCIONARIO": "Salários",
+    "PLANO 2 D VARIA 4 02 COMISSOES": "Salários",
+    "PLANO 2 DEDUCOES 3 01 SIMPLES NACIONAL": "Simples nacional",
+    "PLANO 2 INVEST 11 03 REFORMAS": "Despesa com obra",
+    "PLANO 2 INVEST 11 05 AQUISICAO DE MAQUINARIO": "Aquisições de máquinas e equipamentos",
+    "PLANO 2 INVEST 11 06 AQUISACAO DE EQUIPAMENTOS": "Aquisições de máquinas e equipamentos",
+    "PLANO 2 INVEST 11 10 COMPRAS DE UTENSILIOS": "Aquisições de utensílios",
+    "PLANO 2 S TERC 10 06 DEDETIZACAO": "Dedetização",
+    "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO": "Recebimentos Bancos",
+    "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO REDESHOP": "Recebimentos Bancos",
+    "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO": "Recebimentos Bancos",
+    "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON": "Recebimentos Bancos",
+    "TED E RECEBIDA BCO 341 PLUXEE BENEFICIOS BRASIL S A": "Recebimentos Via Vale-Refeição"
   },
   "de_para_detalhado": {
     "2025 10 01 00 00 00": {
@@ -825,6 +876,51 @@
         "PRLS JAN 26"
       ]
     },
+    "ALIMENTACAO": {
+      "classificacao": "Alimentação",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "ANTECIPACAO RV SAFRAPAY AMERICAN EXPRESS": {
+      "classificacao": "Recebimentos Via Antecipação",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "ANTECIPACAO RV SAFRAPAY ELO": {
+      "classificacao": "Recebimentos Via Antecipação",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "ANTECIPACAO RV SAFRAPAY MASTER": {
+      "classificacao": "Recebimentos Via Antecipação",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "ANTECIPACAO RV SAFRAPAY VISA": {
+      "classificacao": "Recebimentos Via Antecipação",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
     "DATA": {
       "classificacao": "Data",
       "confianca": 0.95,
@@ -834,6 +930,420 @@
         "DEZ 2025 Quality",
         "JAN 26 Quality",
         "PRLS JAN 26"
+      ]
+    },
+    "PIX RECEBIDO ALELO INSTITUICAO DE PAGAMENTO": {
+      "classificacao": "Recebimentos Via Vale-Refeição",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PIX RECEBIDO VR BENEFICIOS SERV PROC LTDA": {
+      "classificacao": "Recebimentos Via Vale-Refeição",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 CMV 2 01 COMPRAS": {
+      "classificacao": "Compra de matéria-prima",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 CMV 2 02 MATERIAL DESCARTAVEL": {
+      "classificacao": "Compra de matéria-prima",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D ADM 5 01 ALUGUEL": {
+      "classificacao": "Aluguel predial",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D ADM 5 02 ENERGIA ELETRICA": {
+      "classificacao": "Energia elétrica",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D ADM 5 03 GAS": {
+      "classificacao": "Gás",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D ADM 5 04 AGUA E ESGOTO": {
+      "classificacao": "Água e esgoto",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D ADM 5 09 IPTU": {
+      "classificacao": "IPTU",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D GERAIS 9 02 MATERIAL DE LIMPEZA": {
+      "classificacao": "Material de limpeza e higiene",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D GERAIS 9 05 MANUTENCAO EQUIPAMENTOS": {
+      "classificacao": "Manutenção de equipamentos",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D GERAIS 9 06 MANUTENCAO PREDIAL": {
+      "classificacao": "Manutenção predial",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D GERAIS 9 10 SEGUROS": {
+      "classificacao": "Seguros",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D GERAIS 9 11 ALUGUEL DE EQUIPAMENTO": {
+      "classificacao": "Aluguel de equipamentos",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D GERAIS MATERIAL DE ESCRITORIO": {
+      "classificacao": "Material de escritório",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D MKT 7 02 ASSESSORIA DE MARKETING": {
+      "classificacao": "Publicidade e propaganda",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D MKT 7 06 MATERIAL GRAFICO": {
+      "classificacao": "Material gráfico",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 01 SALARIOS": {
+      "classificacao": "Salários",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 02 ADIANTAMENTO": {
+      "classificacao": "Salários",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 03 FERIAS": {
+      "classificacao": "Férias",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 04 VALE TRANSPORTE": {
+      "classificacao": "Vale transporte",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 06 13O SALARIO": {
+      "classificacao": "13º Salário",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 07 RESCISAO": {
+      "classificacao": "Rescisões",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 08 FGTS RESCISORIO": {
+      "classificacao": "Rescisões",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 09 HORAS EXTRAS": {
+      "classificacao": "Extras",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 10 INSS": {
+      "classificacao": "INSS",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 11 FGTS": {
+      "classificacao": "FGTS",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 12 EXAMES MEDICOS": {
+      "classificacao": "Exames médicos",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 16 ALUGUEL CASA COLABORADORES": {
+      "classificacao": "Aluguel de casa",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 18 PLANO ODONTOLOGICO": {
+      "classificacao": "Plano odontológico",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 21 TRANSPORTE EXTRA": {
+      "classificacao": "Vale transporte",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 22 SINDICATO": {
+      "classificacao": "Sindicatos",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 35 REFEICAO P FUNCIONARIO": {
+      "classificacao": "Alimentação",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D PESSOAL 6 36 AGUA FUNCIONARIO": {
+      "classificacao": "Salários",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 D VARIA 4 02 COMISSOES": {
+      "classificacao": "Salários",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 DEDUCOES 3 01 SIMPLES NACIONAL": {
+      "classificacao": "Simples nacional",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 INVEST 11 03 REFORMAS": {
+      "classificacao": "Despesa com obra",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 INVEST 11 05 AQUISICAO DE MAQUINARIO": {
+      "classificacao": "Aquisições de máquinas e equipamentos",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 INVEST 11 06 AQUISACAO DE EQUIPAMENTOS": {
+      "classificacao": "Aquisições de máquinas e equipamentos",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 INVEST 11 10 COMPRAS DE UTENSILIOS": {
+      "classificacao": "Aquisições de utensílios",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "PLANO 2 S TERC 10 06 DEDETIZACAO": {
+      "classificacao": "Dedetização",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO": {
+      "classificacao": "Recebimentos Bancos",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MAESTRO REDESHOP": {
+      "classificacao": "Recebimentos Bancos",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "RESUMO VENDAS CARTAO DEBITO SAFRAPAY MASTERCARD PRE PAGO": {
+      "classificacao": "Recebimentos Bancos",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "RESUMO VENDAS CARTAO DEBITO SAFRAPAY VISA ELECTRON": {
+      "classificacao": "Recebimentos Bancos",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 1,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
+      ]
+    },
+    "TED E RECEBIDA BCO 341 PLUXEE BENEFICIOS BRASIL S A": {
+      "classificacao": "Recebimentos Via Vale-Refeição",
+      "confianca": 1.0,
+      "origem": "de_para",
+      "frequencia": 2,
+      "empresas": [
+        "TREINO VIA SUL JAN26"
       ]
     }
   },
