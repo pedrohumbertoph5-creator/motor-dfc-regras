@@ -1,6 +1,6 @@
 {
   "versao": "2.0.0",
-  "atualizado_em": "2026-03-19T17:51:45.487881",
+  "atualizado_em": "2026-03-19T17:55:00.073907",
   "total_regras": 4517,
   "de_para": {
     "077289083": "077289083",
@@ -4555,8 +4555,8 @@
       "origem": "de_para",
       "frequencia": 3,
       "empresas": [
-        "1 Cantinho do Frango 2026 01 Janeiro",
         "Liliana Diógenes 2026",
+        "1 Cantinho do Frango 2026 01 Janeiro",
         "Balcone JAN26"
       ]
     },
@@ -5286,11 +5286,11 @@
       "origem": "maioria",
       "frequencia": 6,
       "empresas": [
-        "1 Cantinho do Frango 2026 01 Janeiro",
+        "Liliana Diógenes 2026",
         "Balcone JAN26",
-        "Biomarkan JUL25",
-        "CARLINHOS LANCHES 08.2025 CONSULTA",
-        "JAN26 Rei do Frango"
+        "1 Cantinho do Frango 2026 01 Janeiro",
+        "JAN26 Rei do Frango",
+        "CARLINHOS LANCHES 08.2025 CONSULTA"
       ]
     },
     "AGUA AGUA SOCIOS": {
@@ -5371,8 +5371,8 @@
       "origem": "minerado",
       "frequencia": 8,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "ALIMENTAA A O REFEIA AΜES": {
@@ -5426,11 +5426,11 @@
       "origem": "maioria",
       "frequencia": 4,
       "empresas": [
+        "Liliana Diógenes 2026",
         "1 Cantinho do Frango 2026 01 Janeiro",
-        "Biomarkan JUL25",
-        "CARLINHOS LANCHES 08.2025 CONSULTA",
         "JAN26 Rei do Frango",
-        "Liliana Diógenes 2026"
+        "CARLINHOS LANCHES 08.2025 CONSULTA",
+        "Biomarkan JUL25"
       ]
     },
     "ALUGUEL CARRO": {
@@ -5782,8 +5782,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "BACON": {
@@ -5792,8 +5792,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "BAETURA CAIXAS 14 A 16 08": {
@@ -6441,8 +6441,8 @@
       "origem": "minerado",
       "frequencia": 6,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "BONIFICACAO": {
@@ -6649,9 +6649,9 @@
       "origem": "de_para",
       "frequencia": 1,
       "empresas": [
-        "JAN 26 Quality",
+        "DEZ 2025 Quality",
         "1 Cantinho do Frango 2026 01 Janeiro",
-        "DEZ 2025 Quality"
+        "JAN 26 Quality"
       ]
     },
     "CASA DO SALGADO JOEL": {
@@ -6696,8 +6696,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "CDB DI LIQ BANCO INTER S A": {
@@ -6787,9 +6787,9 @@
       "origem": "minerado",
       "frequencia": 3,
       "empresas": [
-        "JAN 26 Quality",
+        "DEZ 2025 Quality",
         "BUTCHERS JAN 26 Consulta",
-        "DEZ 2025 Quality"
+        "JAN 26 Quality"
       ]
     },
     "CLASSIFICACAO DFC": {
@@ -6825,8 +6825,8 @@
       "origem": "maioria",
       "frequencia": 3,
       "empresas": [
-        "1 Cantinho do Frango 2026 01 Janeiro",
         "JAN26 Rei do Frango",
+        "1 Cantinho do Frango 2026 01 Janeiro",
         "CARLINHOS LANCHES 08.2025 CONSULTA",
         "Balcone JAN26"
       ]
@@ -6918,10 +6918,10 @@
       "origem": "maioria",
       "frequencia": 50,
       "empresas": [
-        "JAN 26 Quality",
-        "1 Cantinho do Frango 2026 01 Janeiro",
         "DEZ 2025 Quality",
-        "Balcone JAN26"
+        "1 Cantinho do Frango 2026 01 Janeiro",
+        "Balcone JAN26",
+        "JAN 26 Quality"
       ]
     },
     "COMISSAO DE VENDAS": {
@@ -7002,8 +7002,8 @@
       "origem": "minerado",
       "frequencia": 34,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "COMPRA DE MATERIAL COZINHA": {
@@ -7228,11 +7228,11 @@
       "origem": "maioria",
       "frequencia": 4,
       "empresas": [
+        "Liliana Diógenes 2026",
         "Balcone JAN26",
-        "Biomarkan JUL25",
-        "CARLINHOS LANCHES 08.2025 CONSULTA",
         "JAN26 Rei do Frango",
-        "Liliana Diógenes 2026"
+        "CARLINHOS LANCHES 08.2025 CONSULTA",
+        "Biomarkan JUL25"
       ]
     },
     "CONSULTORIA CONTABIL": {
@@ -7331,11 +7331,11 @@
       "origem": "maioria",
       "frequencia": 4,
       "empresas": [
+        "Liliana Diógenes 2026",
         "Balcone JAN26",
-        "CARLINHOS LANCHES 08.2025 CONSULTA",
-        "JAN26 Rei do Frango",
         "PRLS JAN 26",
-        "Liliana Diógenes 2026"
+        "JAN26 Rei do Frango",
+        "CARLINHOS LANCHES 08.2025 CONSULTA"
       ]
     },
     "CONTADOR": {
@@ -7444,8 +7444,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "CUSTO DE MATERIA PRIMA": {
@@ -7607,11 +7607,11 @@
       "origem": "maioria",
       "frequencia": 4,
       "empresas": [
-        "1 Cantinho do Frango 2026 01 Janeiro",
+        "Liliana Diógenes 2026",
         "Balcone JAN26",
-        "CARLINHOS LANCHES 08.2025 CONSULTA",
+        "1 Cantinho do Frango 2026 01 Janeiro",
         "JAN26 Rei do Frango",
-        "Liliana Diógenes 2026"
+        "CARLINHOS LANCHES 08.2025 CONSULTA"
       ]
     },
     "DEI EM DINHEIRO E SR ARAGAO TRANSFERIU PARA BDV": {
@@ -7674,8 +7674,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "DESENTUPIDORA": {
@@ -7693,8 +7693,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "DESPESAS BANCARIAS": {
@@ -7721,8 +7721,8 @@
       "origem": "de_para",
       "frequencia": 2,
       "empresas": [
-        "CARLINHOS LANCHES 08.2025 CONSULTA",
-        "JAN26 Rei do Frango"
+        "JAN26 Rei do Frango",
+        "CARLINHOS LANCHES 08.2025 CONSULTA"
       ]
     },
     "DESPESAS EXTRAS CRECHE": {
@@ -7731,8 +7731,8 @@
       "origem": "de_para",
       "frequencia": 2,
       "empresas": [
-        "CARLINHOS LANCHES 08.2025 CONSULTA",
-        "JAN26 Rei do Frango"
+        "JAN26 Rei do Frango",
+        "CARLINHOS LANCHES 08.2025 CONSULTA"
       ]
     },
     "DEVOLUCAO AO CLIENTE": {
@@ -9370,8 +9370,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "DIST DE ALIM FARTURA S A LJ19": {
@@ -9515,11 +9515,11 @@
       "origem": "maioria",
       "frequencia": 4,
       "empresas": [
-        "1 Cantinho do Frango 2026 01 Janeiro",
+        "Liliana Diógenes 2026",
         "Balcone JAN26",
-        "CARLINHOS LANCHES 08.2025 CONSULTA",
+        "1 Cantinho do Frango 2026 01 Janeiro",
         "JAN26 Rei do Frango",
-        "Liliana Diógenes 2026"
+        "CARLINHOS LANCHES 08.2025 CONSULTA"
       ]
     },
     "ENERGIA ELETRICA": {
@@ -9654,8 +9654,8 @@
       "origem": "de_para",
       "frequencia": 2,
       "empresas": [
-        "CARLINHOS LANCHES 08.2025 CONSULTA",
-        "JAN26 Rei do Frango"
+        "JAN26 Rei do Frango",
+        "CARLINHOS LANCHES 08.2025 CONSULTA"
       ]
     },
     "ESPETO D BAMBU": {
@@ -9664,8 +9664,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "ESTACIONAMENTO": {
@@ -9737,9 +9737,9 @@
       "origem": "de_para",
       "frequencia": 1,
       "empresas": [
-        "JAN 26 Quality",
         "DEZ 2025 Quality",
-        "Liliana Diógenes 2026"
+        "Liliana Diógenes 2026",
+        "JAN 26 Quality"
       ]
     },
     "EXTRAS EXTRA JULIA": {
@@ -9766,8 +9766,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "FAMA ESSENCIAS LTDA": {
@@ -9794,8 +9794,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "FEIJAO ALHO": {
@@ -9804,8 +9804,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "FERIADO CONTRA CHEQUE": {
@@ -9814,8 +9814,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "FERIAS": {
@@ -9824,8 +9824,8 @@
       "origem": "maioria",
       "frequencia": 4,
       "empresas": [
-        "1 Cantinho do Frango 2026 01 Janeiro",
         "JAN26 Rei do Frango",
+        "1 Cantinho do Frango 2026 01 Janeiro",
         "CARLINHOS LANCHES 08.2025 CONSULTA",
         "Balcone JAN26"
       ]
@@ -9845,10 +9845,10 @@
       "origem": "maioria",
       "frequencia": 7,
       "empresas": [
-        "1 Cantinho do Frango 2026 01 Janeiro",
+        "Liliana Diógenes 2026",
         "Balcone JAN26",
-        "Biomarkan JUL25",
-        "CARLINHOS LANCHES 08.2025 CONSULTA",
+        "1 Cantinho do Frango 2026 01 Janeiro",
+        "PRLS JAN 26",
         "JAN26 Rei do Frango"
       ]
     },
@@ -9885,8 +9885,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "FLAG MES": {
@@ -9933,8 +9933,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "FORNECIMENTO DE GAS": {
@@ -9971,8 +9971,8 @@
       "frequencia": 3,
       "empresas": [
         "Liliana Diógenes 2026",
-        "BUTCHERS JAN 26 Consulta",
-        "Balcone JAN26"
+        "Balcone JAN26",
+        "BUTCHERS JAN 26 Consulta"
       ]
     },
     "FRETE 3 RAPADURAS": {
@@ -10215,8 +10215,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "GELEIA": {
@@ -10234,8 +10234,8 @@
       "origem": "minerado",
       "frequencia": 30,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "GERAL": {
@@ -10289,8 +10289,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "ICMS": {
@@ -10391,11 +10391,11 @@
       "origem": "maioria",
       "frequencia": 5,
       "empresas": [
-        "1 Cantinho do Frango 2026 01 Janeiro",
+        "Liliana Diógenes 2026",
         "Balcone JAN26",
-        "Biomarkan JUL25",
-        "CARLINHOS LANCHES 08.2025 CONSULTA",
-        "JAN26 Rei do Frango"
+        "1 Cantinho do Frango 2026 01 Janeiro",
+        "JAN26 Rei do Frango",
+        "CARLINHOS LANCHES 08.2025 CONSULTA"
       ]
     },
     "INTER BDV": {
@@ -10413,10 +10413,10 @@
       "origem": "de_para",
       "frequencia": 3,
       "empresas": [
-        "1 Cantinho do Frango 2026 01 Janeiro",
         "Biomarkan JUL25",
-        "BUTCHERS JAN 26 Consulta",
-        "Balcone JAN26"
+        "1 Cantinho do Frango 2026 01 Janeiro",
+        "Balcone JAN26",
+        "BUTCHERS JAN 26 Consulta"
       ]
     },
     "INTERNET TELEFONE": {
@@ -10524,10 +10524,10 @@
       "origem": "de_para",
       "frequencia": 4,
       "empresas": [
-        "1 Cantinho do Frango 2026 01 Janeiro",
+        "Liliana Diógenes 2026",
         "Biomarkan JUL25",
-        "Balcone JAN26",
-        "Liliana Diógenes 2026"
+        "1 Cantinho do Frango 2026 01 Janeiro",
+        "Balcone JAN26"
       ]
     },
     "IRPJ": {
@@ -10546,8 +10546,8 @@
       "origem": "de_para",
       "frequencia": 2,
       "empresas": [
-        "BUTCHERS JAN 26 Consulta",
-        "Balcone JAN26"
+        "Balcone JAN26",
+        "BUTCHERS JAN 26 Consulta"
       ]
     },
     "ITAU": {
@@ -10655,8 +10655,8 @@
       "origem": "minerado",
       "frequencia": 98,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "LANCHE CAFE DA MANHA DESPEDIDA DO ANO": {
@@ -10665,8 +10665,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "LEROY MERLIN CIA BRASILEIRA DE BRICOLAGEM": {
@@ -10729,8 +10729,8 @@
       "origem": "de_para",
       "frequencia": 2,
       "empresas": [
-        "1 Cantinho do Frango 2026 01 Janeiro",
-        "Biomarkan JUL25"
+        "Biomarkan JUL25",
+        "1 Cantinho do Frango 2026 01 Janeiro"
       ]
     },
     "MAGAZINE LUIZA S A": {
@@ -10906,8 +10906,8 @@
       "frequencia": 5,
       "empresas": [
         "Liliana Diógenes 2026",
-        "CARLINHOS LANCHES 08.2025 CONSULTA",
         "JAN26 Rei do Frango",
+        "CARLINHOS LANCHES 08.2025 CONSULTA",
         "PRLS JAN 26"
       ]
     },
@@ -10973,8 +10973,8 @@
       "origem": "de_para",
       "frequencia": 3,
       "empresas": [
-        "1 Cantinho do Frango 2026 01 Janeiro",
         "Biomarkan JUL25",
+        "1 Cantinho do Frango 2026 01 Janeiro",
         "Balcone JAN26"
       ]
     },
@@ -11021,8 +11021,8 @@
       "origem": "minerado",
       "frequencia": 4,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "MB": {
@@ -11211,8 +11211,8 @@
       "origem": "minerado",
       "frequencia": 24,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "NACIONAL SERVICE": {
@@ -13615,8 +13615,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "OUTRAS DESPESAS": {
@@ -13779,8 +13779,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "PAGAMENTO A FORNECEDORES IFOOD COM 14380200000121": {
@@ -15985,8 +15985,8 @@
       "origem": "minerado",
       "frequencia": 4,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "PARCELAMENO DIVIDA FISCAL": {
@@ -16022,8 +16022,8 @@
       "origem": "de_para",
       "frequencia": 2,
       "empresas": [
-        "Biomarkan JUL25",
-        "Liliana Diógenes 2026"
+        "Liliana Diógenes 2026",
+        "Biomarkan JUL25"
       ]
     },
     "PARTICIPACAO LUCROS": {
@@ -16068,8 +16068,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "PFM COMERCIAL LTDA DOM LUIS": {
@@ -16141,8 +16141,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "PIX AGENDAMENTO 20 01 05 41 CEF MATRIZ": {
@@ -42360,8 +42360,8 @@
       "origem": "de_para",
       "frequencia": 1,
       "empresas": [
-        "BUTCHERS JAN 26 Consulta",
-        "Balcone JAN26"
+        "Balcone JAN26",
+        "BUTCHERS JAN 26 Consulta"
       ]
     },
     "PRA3 LABORE": {
@@ -42379,8 +42379,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "PREMIACAO E BONUS": {
@@ -42697,8 +42697,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "REFRIACO COMERCIO E EQUIP P REFRIGERACAO LTDA ME": {
@@ -42896,8 +42896,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "RESUMO VENDAS CARTAO DEBITO SAFRAPAY ELO DEBITO": {
@@ -42942,8 +42942,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "ROYALTIES": {
@@ -42970,9 +42970,9 @@
       "origem": "de_para",
       "frequencia": 1,
       "empresas": [
-        "JAN 26 Quality",
+        "DEZ 2025 Quality",
         "1 Cantinho do Frango 2026 01 Janeiro",
-        "DEZ 2025 Quality"
+        "JAN 26 Quality"
       ]
     },
     "SALARIO DO SEGURANCA PARQUEOLI": {
@@ -43314,8 +43314,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "SIMPLES": {
@@ -43334,10 +43334,10 @@
       "frequencia": 4,
       "empresas": [
         "Balcone JAN26",
-        "Biomarkan JUL25",
-        "CARLINHOS LANCHES 08.2025 CONSULTA",
+        "PRLS JAN 26",
         "JAN26 Rei do Frango",
-        "PRLS JAN 26"
+        "CARLINHOS LANCHES 08.2025 CONSULTA",
+        "Biomarkan JUL25"
       ]
     },
     "SISTEMA": {
@@ -43346,8 +43346,8 @@
       "origem": "de_para",
       "frequencia": 1,
       "empresas": [
-        "BUTCHERS JAN 26 Consulta",
-        "Liliana Diógenes 2026"
+        "Liliana Diógenes 2026",
+        "BUTCHERS JAN 26 Consulta"
       ]
     },
     "SISTEMA E SOFTWARE": {
@@ -43491,8 +43491,8 @@
       "origem": "minerado",
       "frequencia": 4,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "SUPERMERCADO COMETA LTDA": {
@@ -43510,8 +43510,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "TAR BAIXA COB SIMPLES ELETRONICA": {
@@ -43891,8 +43891,8 @@
       "origem": "de_para",
       "frequencia": 2,
       "empresas": [
-        "CARLINHOS LANCHES 08.2025 CONSULTA",
-        "JAN26 Rei do Frango"
+        "JAN26 Rei do Frango",
+        "CARLINHOS LANCHES 08.2025 CONSULTA"
       ]
     },
     "TAXAS DE ENTREGAS": {
@@ -43964,8 +43964,8 @@
       "origem": "de_para",
       "frequencia": 2,
       "empresas": [
-        "CARLINHOS LANCHES 08.2025 CONSULTA",
-        "JAN26 Rei do Frango"
+        "JAN26 Rei do Frango",
+        "CARLINHOS LANCHES 08.2025 CONSULTA"
       ]
     },
     "TAXAS REDE": {
@@ -44120,8 +44120,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "TRAFEGO PAGO IMPULSIONAMENTO": {
@@ -44985,8 +44985,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "TURQUEZA TECIDOS E VESTUARIOS S A": {
@@ -45004,9 +45004,9 @@
       "origem": "maioria",
       "frequencia": 10,
       "empresas": [
-        "JAN 26 Quality",
         "DEZ 2025 Quality",
-        "Balcone JAN26"
+        "Balcone JAN26",
+        "JAN 26 Quality"
       ]
     },
     "UBER BLOCOS MANOBRISTA": {
@@ -45033,8 +45033,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "UBER IDA AO SINDICATO": {
@@ -45043,8 +45043,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "UBER IDA E VOLTA RECEITA FEDERAL RAILA": {
@@ -45089,8 +45089,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "UTECILIO": {
@@ -45099,8 +45099,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "UTECILIO COLHERES": {
@@ -45109,8 +45109,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "UTECILOS CAIXA TERMICA": {
@@ -45119,8 +45119,8 @@
       "origem": "minerado",
       "frequencia": 2,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "UTENSA LIOS DE TRABALHO": {
@@ -45183,8 +45183,8 @@
       "origem": "maioria",
       "frequencia": 22,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "VALE ADIANTAMENTO": {
@@ -45247,8 +45247,8 @@
       "origem": "minerado",
       "frequencia": 6,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "VINDI": {
@@ -45293,8 +45293,8 @@
       "origem": "minerado",
       "frequencia": 6,
       "empresas": [
-        "JAN 26 Quality",
-        "DEZ 2025 Quality"
+        "DEZ 2025 Quality",
+        "JAN 26 Quality"
       ]
     },
     "VT E VA": {
